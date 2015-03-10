@@ -1,5 +1,6 @@
 # php-code-review-sniff
-A PHP Code Sniffer sniff for code reviews.
+
+A code review sniff built for PHP Code Sniffer.
 
 This tool will cover:
 
