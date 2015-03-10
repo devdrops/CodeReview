@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ruleset name="CodeReview">
     <description>A Code Review Standard.</description>
+    
+    <rule ref="PSR1"/>
+    <rule ref="PSR2"/>
 </ruleset>
