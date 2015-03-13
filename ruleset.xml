@@ -9,4 +9,9 @@
     <exclude-pattern>*.twig</exclude-pattern>
     <exclude-pattern>*.phtml</exclude-pattern>
     <exclude-pattern>*.html*</exclude-pattern>
+
+    <rule ref="Squiz.Commenting.FunctionComment" />
+  	<rule ref="Squiz.Commenting.FunctionCommentThrowTag" />
+  	<rule ref="Squiz.Commenting.ClassComment" />
+  	<rule ref="Squiz.Commenting.VariableComment" />
 </ruleset>
