@@ -8,4 +8,5 @@
     <exclude-pattern>*twig*</exclude-pattern>
     <exclude-pattern>*.twig</exclude-pattern>
     <exclude-pattern>*.phtml</exclude-pattern>
+    <exclude-pattern>*.html*</exclude-pattern>
 </ruleset>
