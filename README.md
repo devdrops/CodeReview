@@ -1,6 +1,6 @@
 # CodeReview
 
-A code review sniff built for PHP Code Sniffer.
+A standard for PHP CodeSniffer.
 
 This tool will cover:
 
