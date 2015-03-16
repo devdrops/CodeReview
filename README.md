@@ -1,4 +1,4 @@
-# php-code-review-sniff
+# CodeReview
 
 A code review sniff built for PHP Code Sniffer.
 
