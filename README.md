@@ -20,3 +20,6 @@ This tool will not cover:
 
 - Views
     - twig, phtml
+    
+#### References
+- [PHP CodeSniffer list of available sniffs](http://pear.php.net/package/PHP_CodeSniffer/docs/latest/PHP_CodeSniffer/Generic_Sniffs_PHP_ForbiddenFunctionsSniff.html)
