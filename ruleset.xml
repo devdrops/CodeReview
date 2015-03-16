@@ -5,13 +5,14 @@
     <rule ref="PSR1"/>
     <rule ref="PSR2"/>
     
+    <rule ref="Squiz.Commenting.FunctionComment" />
+    <rule ref="Squiz.Commenting.FunctionCommentThrowTag" />
+    <rule ref="Generic.Commenting.DocComment" />
+    <rule ref="Generic.Commenting.Fixme" />
+    <rule ref="Generic.Commenting.Todo" />
+    
     <exclude-pattern>*twig*</exclude-pattern>
     <exclude-pattern>*.twig</exclude-pattern>
     <exclude-pattern>*.phtml</exclude-pattern>
     <exclude-pattern>*.html*</exclude-pattern>
-
-    <rule ref="Squiz.Commenting.FunctionComment" />
-    <rule ref="Squiz.Commenting.FunctionCommentThrowTag" />
-    <rule ref="Squiz.Commenting.ClassComment" />
-    <rule ref="Squiz.Commenting.VariableComment" />
 </ruleset>
